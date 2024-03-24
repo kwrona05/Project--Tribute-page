@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
+    <title id="title">The power of bow</title>
+    <body>
+      <header> Mystery of the archery</header>
+      <main id="main">
+        <div id="img-div">
+        <img id="image" src="bow.jpg" alt="bow and accessories">
+        <div id="img-caption">
+        <figcapiton id="img-caption">This is a traditional bow. It is realy hard to craft it.</figcaption>
+        </div>
+</div>
+<p id="tribute-info"> The art of <a id="tribute-link" href="https://archery.pl/" target="_blank"> archery</a> is really difficult to learn. You need a lot of patience</p>
+
+
+      </main>
+    </body>
+  </head>
+</html>
