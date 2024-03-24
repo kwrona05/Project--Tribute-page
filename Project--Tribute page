@@ -5,15 +5,42 @@
     <link rel="stylesheet" href="styles.css">
     <title id="title">The power of bow</title>
     <body>
-      <header> Mystery of the archery</header>
+      <header><h1>Mystery of the archery</h1></header>
       <main id="main">
         <div id="img-div">
-        <img id="image" src="bow.jpg" alt="bow and accessories">
+          <p>In this tribute page you will know a little bit about archery, classic bow and arrows.</p>
+        <img id="image" src="https://www.e-luk.pl/data/include/img/news/1584103118.jpg" alt="bow and accessories">
         <div id="img-caption">
-        <figcapiton id="img-caption">This is a traditional bow. It is realy hard to craft it.</figcaption>
+        <figcapiton id="img-caption"></em>This is a traditional bow. It is realy hard to craft it.</em></figcaption>
         </div>
 </div>
 <p id="tribute-info"> The art of <a id="tribute-link" href="https://archery.pl/" target="_blank"> archery</a> is really difficult to learn. You need a lot of patience</p>
+<div id="img2">
+  <img id="img2" src="https://legendarchery.com/cdn/shop/articles/635986466188870951-KoehlHeather-TeresaJohnson-Photo3_1.webp?v=1682723770" alt="archers">
+  <figcaption id="opis"><em>In the picture you can see profesional archer.</em></figcaption>
+ </div>
+  <hr>
+    <div id="img3">
+   <img id="learning" src="https://cdn.britannica.com/26/91526-050-C4C7B73A/Archer-recurve-bow-target.jpg" alt="Common position">
+   <figcaption id="img"><em>Here you can see the best position for begginers and basic parts of bow.</em></figcaption>
+   </div>
+ <hr>
+  <div id="text">
+   <p>Next the most important parts of archer's equipment are arrows. We can distinguish a few types of arrows- aluminium, carbon and wooden. Below you will see these arrows.</p>
+   <div id="arrows">
+     <img id="aluminium" src="https://i.ebayimg.com/images/g/de8AAOSwDkZigbdt/s-l1200.jpg" alt="aluminium arrows">
+     <figcaption id="aluminium"><em>Aluminium arrows is once of the best type of arrows during windy day.</em></figcaption>
+    </div>
+    <div id="carbon">
+      <p>Carbon arrows are my favourite type of arrows, but during windy day... they aren't the best choice.</p>
+      <img id="carbon" src="https://i.ebayimg.com/images/g/PZsAAOSwnIRieyHv/s-l400.jpg" alt="carbon">
+      <figcaption id="carbon"><em>Carbon arrows characterized by low weight and high flight speed.</em></figcaption>
+      </div>
+      <div id="wooden">
+        <p>Wooden arrows characterized by really low durability.</p>
+        <img id="wooden" src="https://i.ebayimg.com/images/g/ncYAAOSwZjNiwmYN/s-l1600.jpg" alt="wooden arrows">
+        <figcaption id="wooden"><em>But it could be the best arrows for the first time- they are the cheapiest arrows.</em></figcaption>
+        </div>
 
 
       </main>
