@@ -11,7 +11,7 @@
           <p>In this tribute page you will know a little bit about archery, classic bow and arrows.</p>
         <img id="image" src="https://www.e-luk.pl/data/include/img/news/1584103118.jpg" alt="bow and accessories">
         <div id="img-caption">
-        <figcapiton id="img-caption"></em>This is a traditional bow. It is realy hard to craft it.</em></figcaption>
+        <figcapiton id="img-caption"><em>This is a traditional bow. It is realy hard to craft it.</em></figcaption>
         </div>
 </div>
 <p id="tribute-info"> The art of <a id="tribute-link" href="https://archery.pl/" target="_blank"> archery</a> is really difficult to learn. You need a lot of patience</p>
